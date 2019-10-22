@@ -98,9 +98,11 @@ Liste apenas meetups que ainda não passaram e ordene meetups mais próximos com
 
 ---
 
-`$ git clone https://TheNeoCarvalho/meetapp-backend.git`
+`$ git clone https://TheNeoCarvalho/Desafio-Meetapp.git`
 
 ### Instalação das Dependências
+
+`$ cd Backend`
 
 ---
 
@@ -183,9 +185,11 @@ Utilize validação nos campos.
 
 ---
 
-`$ git clone https://TheNeoCarvalho/meetapp-frontend.git`
+`$ git clone https://TheNeoCarvalho/Desafio-Meetapp.git`
 
 ### Instalação das Dependências
+
+`$ cd Frontend`
 
 ---
 
@@ -241,9 +245,11 @@ Utilize validação nos campos.
 
 ---
 
-`$ git clone https://TheNeoCarvalho/meetapp-mobile.git`
+`$ git clone https://TheNeoCarvalho/Desafio-Meetapp.git`
 
 ### Instalação das Dependências
+
+`$ cd Mobile`
 
 ---
 
