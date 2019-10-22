@@ -97,6 +97,7 @@ Crie uma rota para listar os meetups em que o usuário logado está inscrito.
 Liste apenas meetups que ainda não passaram e ordene meetups mais próximos como primeiros da lista.
 
 ---
+### Clonando o repositório
 
 `$ git clone https://TheNeoCarvalho/Desafio-Meetapp.git`
 
@@ -185,6 +186,8 @@ Utilize validação nos campos.
 
 ---
 
+### Clonando o repositório
+
 `$ git clone https://TheNeoCarvalho/Desafio-Meetapp.git`
 
 ### Instalação das Dependências
@@ -244,6 +247,8 @@ O usuário deve poder editar suas informações de cadastro.
 Utilize validação nos campos.
 
 ---
+
+### Clonando o repositório
 
 `$ git clone https://TheNeoCarvalho/Desafio-Meetapp.git`
 
